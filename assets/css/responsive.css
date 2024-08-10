@@ -1,0 +1,1003 @@
+@media only screen and (max-width: 1599px) {}
+
+@media only screen and (max-width: 1399px) {
+  .topbarBrand img {
+    width: 80px;
+  }
+
+  .topNavbar .navbar-nav.navLeft {
+    padding: 0px 100px;
+  }
+
+  .topNavbar .navbar-nav {
+    gap: 0px 30px;
+  }
+
+  .heroSection {
+    padding-bottom: 60px;
+  }
+
+  .heroTextWrapper {
+    padding: 50px 200px 50px;
+  }
+
+  .heroTextWrapper h1 {
+    font-size: 18px;
+    line-height: 20px;
+    margin-bottom: 20px;
+  }
+
+  .heroTextWrapper h2 {
+    font-size: 50px;
+    line-height: 70px;
+  }
+
+  .heroImageBox img {
+    width: 900px;
+    height: 900px;
+  }
+
+  .quoteSection {
+    padding: 80px 0px;
+  }
+
+  .quoteWrapper h1 {
+    font-size: 40px;
+    line-height: 65px;
+    font-weight: 500;
+  }
+
+  .quoteWrapper img {
+    top: -20px;
+    left: 50px;
+    width: 200px;
+  }
+
+  .sectionHeading {
+    padding: 0px 80px 60px;
+  }
+
+  .sectionHeading h2 {
+    font-size: 18px;
+    line-height: 20px;
+    margin-bottom: 20px;
+  }
+
+  .sectionHeading h1 {
+    font-size: 36px;
+    line-height: 50px;
+    margin-bottom: 16px;
+  }
+
+  .sectionHeading p {
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 300;
+  }
+
+  .videoSection {
+    padding: 80px 0px;
+  }
+
+  .videoImgBox .videoBgImg {
+    width: 900px;
+    max-width: 900px;
+    height: 900px;
+  }
+
+  .featureTabContentShape {
+    top: -550px;
+    width: 1150px;
+    height: 1150px;
+  }
+
+  .featureTabContent .tabPaneContentInfo ul {
+    gap: 30px 0px;
+  }
+
+  .featureTabContent .tabPaneContentInfo li img {
+    width: 50px;
+    height: 50px;
+  }
+
+  .featureTabContent .tabPaneContentInfo li {
+    font-size: 16px;
+    line-height: 26px;
+    gap: 0px 20px;
+  }
+
+  .locationSection {
+    padding: 100px 0px;
+  }
+
+  .locationSection .sectionHeading {
+    padding: 0px 0px 40px;
+  }
+
+  .locationWrapper {
+    padding: 0px 60px;
+  }
+
+  .locationWrapper .addressBox {
+    padding: 30px 20px;
+    gap: 0px 20px;
+  }
+
+  .locationWrapper .addressBox .addressBoxText h2 {
+    font-size: 22px;
+    line-height: 30px;
+  }
+
+  .locationWrapper .addressBox .addressBoxText h3 {
+    font-size: 17px;
+    line-height: 26px;
+  }
+
+  .gallerySlider .slick-slide {
+    height: 470px;
+    margin: 0px 40px;
+  }
+
+  .contactModal .textHead {
+    padding: 60px 0px 40px;
+  }
+
+  .contactModal .textHead h2 {
+    font-size: 18px;
+    line-height: 18px;
+    margin-bottom: 16px;
+  }
+
+  .contactModal .textHead h1 {
+    font-size: 44px;
+    line-height: 60px;
+  }
+
+  .contactForm .btnArea {
+    padding: 30px 0px 30px;
+  }
+
+  .bgicon img {
+    width: 60px;
+    height: 60px;
+  }
+
+  .testimonialSection {
+    padding: 100px 0px 100px;
+  }
+
+  .testimonialSlide {
+    gap: 0px 40px;
+    padding: 30px 30px 30px 50px;
+  }
+
+  .testimonialSlideText h2 {
+    font-size: 36px;
+    line-height: 50px;
+    margin-bottom: 10px;
+  }
+
+  .testimonialSlideText p {
+    font-size: 18px;
+    line-height: 28px;
+  }
+
+  .testimonialSlideImg {
+    width: 440px;
+    min-width: 440px;
+    top: -60px;
+  }
+
+  .testimonialSection .leftFluid {
+    max-width: 1120px;
+  }
+
+  .clubSection {
+    padding: 0px 0px 80px;
+  }
+
+  .clubSection .sectionHeading {
+    padding: 0px 0px 60px;
+  }
+
+  .clubRight {
+    padding-left: 60px;
+  }
+
+  .gitSection {
+    padding: 100px 0px 100px;
+  }
+
+  .footerTop {
+    padding: 60px 40px 60px;
+  }
+
+  .footerTopBox {
+    padding-right: 60px;
+  }
+
+  .footerBottom {
+    padding: 20px 0px 60px 240px;
+    display: flex;
+  }
+
+}
+
+@media only screen and (max-width: 1199px) {
+  .topNavbar {
+    padding: 25px 0px;
+  }
+
+  .topNavbar .navbar-nav {
+    gap: 0px 20px;
+  }
+
+  .topNavbar .navbar-nav.navLeft {
+    padding: 0px 40px;
+  }
+
+  .topNavbar .nav-link {
+    font-size: 14px;
+    line-height: 20px;
+    padding: 4px 8px !important;
+  }
+
+  .topNavbar .nav-link.navLinkBtn {
+    gap: 0px 12px;
+    padding: 15px 20px 12px !important;
+  }
+
+  .heroSection {
+    padding-bottom: 40px;
+  }
+
+  .heroTextWrapper {
+    padding: 40px 100px 40px;
+  }
+
+  .heroTextWrapper h2 {
+    font-size: 46px;
+    line-height: 60px;
+  }
+
+  .heroImageBox img {
+    width: 800px;
+    height: 800px;
+  }
+
+  .quoteSection {
+    padding: 60px 0px;
+  }
+
+  .quoteWrapper {
+    padding: 0px 60px;
+  }
+
+  .quoteWrapper h1 {
+    font-size: 30px;
+    line-height: 44px;
+    font-weight: 500;
+  }
+
+  .quoteWrapper img {
+    top: -10px;
+    left: 20px;
+    width: 120px;
+  }
+
+  .videoSection {
+    padding: 60px 0px;
+  }
+
+  .sectionHeading {
+    padding: 0px 60px 40px;
+  }
+
+  .sectionHeading h2 {
+    font-size: 18px;
+    line-height: 20px;
+    margin-bottom: 15px;
+  }
+
+  .sectionHeading h1 {
+    font-size: 30px;
+    line-height: 40px;
+    margin-bottom: 15px;
+  }
+
+  .sectionHeading p {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 300;
+  }
+
+  .sectionHeading br {
+    display: none;
+  }
+
+  .videoImgBox .videoBgImg {
+    width: 800px;
+    max-width: 800px;
+    height: 800px;
+  }
+
+  .videoImgBox .playBtn img {
+    width: 80px;
+    height: 80px;
+    object-fit: scale-down;
+  }
+
+  .featureSection {
+    padding: 0px 0px 0px;
+  }
+
+  .featureTabHeader {
+    margin: 0px 0px 40px;
+  }
+
+  .featureTabHeader .nav-tabs {
+    gap: 0px 20px;
+  }
+
+  .featureTabHeader .nav-tabs .navtabLink {
+    font-size: 14px;
+    line-height: 20px;
+    padding: 15px 20px 12px;
+  }
+
+  .featureTabHeader .nav-tabs .nav-item .navlinkHover a {
+    width: 110px;
+    min-width: 110px;
+    height: 110px;
+    font-size: 10px;
+    line-height: 20px;
+  }
+
+  .featureTabContent .tabPaneContent .sectionHeading.tabPaneContentHeading {
+    padding: 0px 40px 30px;
+  }
+
+  .featureTabContentShape {
+    top: -400px;
+    width: 880px;
+    height: 880px;
+  }
+
+  .featureTabContent .tabPaneContentInfo {
+    padding: 0px 160px 0px;
+  }
+
+  .featureTabContent .tabPaneContentInfo ul {
+    gap: 20px 0px;
+  }
+
+  .featureTabContent .tabPaneContentInfo li {
+    font-size: 14px;
+    line-height: 22px;
+    gap: 0px 20px;
+  }
+
+  .featureTabContent .tabPaneContentInfo li img {
+    width: 40px;
+    height: 40px;
+  }
+
+  .locationSection {
+    padding: 60px 0px;
+  }
+
+  .locationSection .sectionHeading {
+    padding: 0px 0px 30px;
+  }
+
+  .locationWrapper {
+    padding: 0px 10px;
+  }
+
+  .locationWrapper .addressBox .addressBoxText {
+    gap: 4px 0px;
+  }
+
+  .gallerySlider .slick-track {
+    padding: 30px 0px 50px;
+  }
+
+  .bgicon img {
+    width: 40px;
+    height: 40px;
+  }
+
+  .bgiconOne {
+    top: 3%;
+    right: 3%;
+  }
+
+  .bgiconTwo {
+    top: 35%;
+    left: 2%;
+  }
+
+  .bgiconThree {
+    top: 5%;
+    right: 3%;
+  }
+
+  .contactModal .modal-body {
+    padding: 0px 60px;
+  }
+
+  .testimonialSlideText h2 {
+    font-size: 30px;
+    line-height: 40px;
+    margin-bottom: 10px;
+  }
+
+  .testimonialSlideText p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .testimonialSlide {
+    gap: 0px 30px;
+    padding: 20px 20px 20px 30px;
+  }
+
+  .testimonialSlideImg {
+    width: 400px;
+    min-width: 400px;
+    top: -40px;
+  }
+
+  .testimonialSection .leftFluid {
+    max-width: 960px;
+  }
+
+  .testimonialSection {
+    padding: 50px 0px 60px;
+  }
+
+  .testimonialSliderArea .slick-track {
+    padding: 60px 0px 30px;
+  }
+
+  .clubRight {
+    padding-left: 20px;
+  }
+
+  .clubSection {
+    padding: 0px 0px 60px;
+  }
+
+  .gitSection {
+    padding: 80px 0px 80px;
+  }
+
+  .gitWrapper h1 {
+    font-size: 46px;
+    line-height: 60px;
+    margin-bottom: 20px;
+  }
+
+  .gitWrapper ul {
+    gap: 0px 40px;
+  }
+
+  .footerTop {
+    padding: 50px 20px 50px;
+  }
+
+  .footerTopBox {
+    padding-right: 20px;
+  }
+
+  .footerBarIn ul {
+    gap: 0px 24px;
+  }
+
+  .footerBarIn ul li a {
+    font-size: 16px;
+    line-height: 22px;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .topNavbar .navbar-nav.navLeft {
+    padding: 10px 0px;
+    gap: 10px 0px;
+  }
+
+  .topNavbar .navbar-nav {
+    gap: 10px 0px;
+  }
+
+  .heroTextWrapper {
+    padding: 40px 40px 40px;
+  }
+
+  .heroTextWrapper h2 {
+    font-size: 40px;
+    line-height: 54px;
+  }
+
+  .heroImageBox img {
+    width: 640px;
+    height: 640px;
+  }
+
+  .quoteSection {
+    padding: 40px 0px;
+  }
+
+  .quoteWrapper {
+    padding: 0px 0px;
+  }
+
+  .quoteWrapper img {
+    top: -20px;
+    left: -20px;
+    width: 100px;
+  }
+
+  .videoSection {
+    padding: 40px 0px;
+  }
+
+  .sectionHeading {
+    padding: 0px 20px 20px;
+  }
+
+  .videoImgBox .videoBgImg {
+    width: 640px;
+    max-width: 640px;
+    height: 640px;
+  }
+
+  .featureTabHeader .nav-tabs {
+    gap: 20px 20px;
+  }
+
+  .featureTabContent .featureTabContentdata {
+    position: relative;
+    padding-bottom: 40px;
+  }
+
+  .featureTabContent .tabPaneContent .sectionHeading.tabPaneContentHeading {
+    padding: 0px 20px 30px;
+  }
+
+  .featureTabContent .tabPaneContentInfo {
+    padding: 0px 0px 0px;
+  }
+
+  .featureTabContentShape {
+    display: none;
+  }
+
+  .locationSection .sectionHeading {
+    padding: 0px 0px 20px;
+    text-align: center;
+  }
+
+  .locationWrapper .addressBoxes {
+    gap: 20px 0px;
+  }
+
+  .locationWrapper .addressBoxes {
+    gap: 20px 0px;
+    flex-direction: inherit;
+    padding: 0px 0px 20px;
+  }
+
+  .locationWrapper .mapBox .myMap {
+    height: 400px;
+  }
+
+  .gallerySlider .slick-slide {
+    margin: 0px 30px;
+  }
+
+  .contactModal .textHead {
+    padding: 40px 0px 30px;
+  }
+
+  .contactModal .modal-body {
+    padding: 0px 40px;
+  }
+
+  .contactForm .btnArea {
+    padding: 10px 0px 10px;
+  }
+
+  .contactModal .textHead h2 {
+    font-size: 16px;
+    line-height: 16px;
+    margin-bottom: 10px;
+  }
+
+  .contactModal .textHead h1 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  .contactForm .formInputBox {
+    gap: 0px 10px;
+    padding: 10px 12px;
+    min-height: 54px;
+  }
+
+  .contactForm .form-group .form-label {
+    font-size: 14px;
+    line-height: 19px;
+  }
+
+  .testimonialSection {
+    padding: 30px 0px 50px;
+  }
+
+  .testimonialSlide {
+    flex-direction: column-reverse;
+    gap: 0px 30px;
+    padding: 20px 20px 20px 20px;
+  }
+
+  .testimonialSlideImg {
+    width: 440px;
+    min-width: 440px;
+    top: -40px;
+    margin-bottom: -10px;
+  }
+
+  .testimonialSlideText {
+    text-align: center;
+  }
+
+  .testimonialSection .leftFluid {
+    max-width: 700px;
+    margin-left: auto;
+  }
+
+  .testimonialSliderArea .slick-track {
+    padding: 50px 0px 30px;
+  }
+
+  .testimonialSlide::before {
+    border: 1px solid var(--primary);
+    border-left: 1px solid var(--primary);
+  }
+
+  .clubSection .sectionHeading {
+    text-align: center;
+    padding: 60px 0px 55px;
+  }
+
+  .clubSection .row.align-items-end {
+    flex-direction: column-reverse;
+  }
+
+  .clubRight {
+    padding-left: 0;
+  }
+
+  .clubImgBox::before {
+    top: -15px;
+    right: -15px;
+    width: calc(100% - -30px);
+    height: calc(100% - -30px);
+  }
+
+  .gitSection {
+    padding: 60px 0px 60px;
+  }
+
+  .gitWrapper h1 {
+    font-size: 40px;
+    line-height: 54px;
+    margin-bottom: 15px;
+  }
+
+  .footerTop {
+    padding: 50px 0px 50px;
+  }
+
+  .footerTopBox {
+    padding-right: 0px;
+    gap: 6px 0px;
+  }
+
+  .footerTopBox span {
+    font-size: 24px;
+  }
+
+  .footerTopBox p {
+    font-size: 18px;
+    line-height: 26px;
+  }
+
+  .footerBottom {
+    padding: 0px 0px 200px 0px;
+  }
+
+  .footerBarIn {
+    padding: 0px 20px;
+    position: relative;
+    justify-content: center;
+  }
+
+  .footerAward {
+    position: absolute;
+    bottom: 50px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+  }
+
+  .footerBarIn ul {
+    gap: 0px 26px;
+    padding: 0px 0px;
+  }
+
+  .footerBar {
+    padding: 60px 0px 30px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .topbarBrand img {
+    width: 60px;
+  }
+
+  .topNavbar {
+    padding: 20px 0px;
+  }
+
+  .heroTextWrapper {
+    padding: 40px 20px 30px;
+  }
+
+  .heroTextWrapper h1 {
+    font-size: 18px;
+    line-height: 20px;
+    margin-bottom: 10px;
+  }
+
+  .heroTextWrapper h2 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  .heroImageBox img {
+    width: 280px;
+    height: 280px;
+  }
+
+  .quoteWrapper h1 {
+    font-size: 26px;
+    line-height: 34px;
+    font-weight: 500;
+    text-align: center;
+  }
+
+  .quoteWrapper img {
+    top: -10px;
+    left: 10px;
+    width: 100px;
+  }
+
+  .sectionHeading {
+    padding: 0px 0px 20px;
+  }
+
+  .sectionHeading h1 {
+    font-size: 30px;
+    line-height: 40px;
+    margin-bottom: 10px;
+  }
+
+  .sectionHeading h2 {
+    font-size: 18px;
+    line-height: 20px;
+    margin-bottom: 10px;
+  }
+
+  .sectionHeading p {
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 300;
+  }
+
+  .videoImgBox .videoBgImg {
+    width: 280px;
+    max-width: 280px;
+    height: 280px;
+  }
+
+  .videoImgBox .playBtn img {
+    width: 50px;
+    height: 50px;
+    object-fit: scale-down;
+  }
+
+  .featureTabHeader {
+    margin: 0px 0px 30px;
+  }
+
+  .featureTabContent .tabPaneContent .sectionHeading.tabPaneContentHeading {
+    padding: 0px 10px 20px;
+  }
+
+  .featureTabContent .tabPaneContentInfo ul {
+    gap: 14px 0px;
+  }
+
+  .featureTabContent .tabPaneContentInfo li {
+    font-size: 14px;
+    line-height: 20px;
+    gap: 0px 14px;
+  }
+
+  .featureTabContent .featureTabContentdata {
+    padding-bottom: 30px;
+  }
+
+  .locationSection {
+    padding: 40px 0px;
+  }
+
+  .locationWrapper .addressBox {
+    padding: 20px 16px;
+    gap: 0px 14px;
+  }
+
+  .locationWrapper .addressBox .addressBoxText h3 {
+    font-family: Albula-Regular;
+    font-size: 15px;
+    line-height: 22px;
+    font-weight: 500;
+  }
+
+  .gallerySection .sectionHeading {
+    padding: 0px 0px 10px;
+  }
+
+  .gallerySlider .slick-slide {
+    margin: 0px 10px;
+    height: 300px;
+  }
+
+  .gallerySlider .gallerySlideImg::before {
+    display: none;
+  }
+
+  .gallerySlider .slick-track {
+    padding: 0px 0px 0px;
+  }
+
+  .gallerySlider .slick-dots {
+    margin: 20px 0px 0px;
+  }
+
+  .gallerySlider .gallerySlideImg {
+    height: 100%;
+    width: 100%;
+  }
+
+  .gallerySlider .gallerySlideImg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .bgicon {
+    display: none;
+  }
+
+  .testimonialSection {
+    padding: 20px 0px 30px;
+  }
+
+  .testimonialSection .leftFluid {
+    max-width: 90%;
+    margin-left: auto;
+  }
+
+  .testimonialSlideImg {
+    width: 100%;
+    min-width: 100%;
+    top: -40px;
+    margin-bottom: -20px;
+  }
+
+  .testimonialSliderArea .slick-track {
+    padding: 40px 0px 20px;
+  }
+
+  .clubSection {
+    padding: 0px 0px 30px;
+  }
+
+  .clubSection .sectionHeading {
+    text-align: center;
+    padding: 40px 0px 40px;
+  }
+
+  .clubSection .sectionHeading button {
+    margin-top: 15px;
+  }
+
+  .clubImgBox::before {
+    display: none;
+  }
+
+  .gitSection {
+    padding: 40px 0px 40px;
+  }
+
+  .gitWrapper h1 {
+    font-size: 30px;
+    line-height: 40px;
+    margin-bottom: 15px;
+  }
+
+  .gitWrapper ul {
+    flex-direction: column;
+    gap: 20px 10px;
+  }
+
+  .contactModal .btn-close {
+    font-size: 22px;
+    top: 14px;
+    right: 14px;
+  }
+
+  .footerTopCol,
+  .footerTopCol:nth-last-child(1) {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+
+  .footerTopBox {
+    gap: 4px 0px;
+    justify-content: center;
+    text-align: center;
+    padding: 0px 20px;
+  }
+
+  .footerTopCol:nth-last-child(1) .footerTopBox {
+    padding-right: 20px;
+  }
+
+  .footerTop .row {
+    gap: 30px 0px;
+  }
+
+  .footerBottom {
+    padding: 0px 0px 200px 0px;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 30px 0px;
+  }
+
+  .footerTop {
+    padding: 40px 0px 30px;
+  }
+
+  .footerBarIn ul {
+    gap: 16px 20px;
+    padding: 0px 0px;
+    flex-direction: column;
+  }
+
+  .footerAward {
+    position: absolute;
+    bottom: auto;
+    top: -240px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+  }
+
+  .footerBar {
+    padding: 80px 0px 30px;
+  }
+}
